@@ -195,3 +195,5 @@ Created by **[Waren Gonzaga](https://github.com/warengonzaga)** under [WG Techno
 ---
 
 💻 with ❤️ by [Waren Gonzaga](https://warengonzaga.com) under [WG Technology Labs](https://wgtechlabs.com), and [Him](https://www.youtube.com/watch?v=HHrxS4diLew&t=44s) 🙏
+
+<!-- GitAds-Verify: 4PUZX9T5WXZLXEJ7FAP8M39IKW64GHRM -->
