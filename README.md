@@ -47,15 +47,15 @@ GitHub Copilot Chat Modes transform your AI assistant into domain specialists by
 
 | Mode | Focus | Best For | Key Features | Path |
 |------|-------|----------|-------------|------|
-| **WG Code Alchemist** | Code quality, Clean Code, SOLID | Code reviews, refactoring | Function optimization, naming conventions, design patterns | `modes/quality/code-alchemist/` |
-| **WG Code Sentinel** | Security vulnerabilities, secure coding | Security audits, compliance checks | Input validation, authentication, API security, risk assessment | `modes/security/code-sentinel/` |
+| [**WG Code Alchemist**](modes/quality/code-alchemist/WG%20Code%20Alchemist.chatmode.md) | Code quality, Clean Code, SOLID | Code reviews, refactoring | Function optimization, naming conventions, design patterns | `modes/quality/code-alchemist/` |
+| [**WG Code Sentinel**](modes/security/code-sentinel/WG%20Code%20Sentinel.chatmode.md) | Security vulnerabilities, secure coding | Security audits, compliance checks | Input validation, authentication, API security, risk assessment | `modes/security/code-sentinel/` |
 
 ## 🚀 Quick Start
 
 ### **🎯 Using Pre-Built Chat Modes**
 
 1. **Choose a Chat Mode**
-   - See the [Ready-to-Use Chat Modes](#-ready-to-use-chat-modes) table below
+   - See the [Available Chat Modes](#-available-chat-modes) table below
    - Download the `.chatmode.md` file for your desired mode
 
 2. **Install in Your Workspace**
