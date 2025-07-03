@@ -23,7 +23,7 @@ These outstanding organizations partner with us to support our open-source work:
 
 Open source development is resource-intensive. These **sponsored ads help keep Log Engine free and actively maintained** while connecting you with tools and services that support open-source development.
 
-[![sponsored ads](https://gitads.dev/v1/ad-serve?source=wgtechlabs/unthread-telegram-bot@github)](https://gitads.dev/v1/ad-track?source=wgtechlabs/unthread-telegram-bot@github)
+[![sponsored ads](https://gitads.dev/v1/ad-serve?source=wgtechlabs/github-copilot-chatmodes@github)](https://gitads.dev/v1/ad-track?source=wgtechlabs/github-copilot-chatmodes@github)
 
 ## 🤔 What Are Chat Modes?
 
