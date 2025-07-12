@@ -1,10 +1,10 @@
-# WG Code Planning
+# WG Code Planner
 
 A strategic GitHub Copilot chat mode for project architecture, development planning, and system design.
 
 ## Overview
 
-WG Code Planning is your expert software architect and project strategist, designed to help transform complex project requirements into structured, actionable development roadmaps. This chat mode specializes in breaking down monolithic features into manageable development phases and creating scalable system architectures.
+WG Code Planner is your expert software architect and project strategist, designed to help transform complex project requirements into structured, actionable development roadmaps. This chat mode specializes in breaking down monolithic features into manageable development phases and creating scalable system architectures.
 
 **Key Characteristic: Permission-Based Operations** - This chat mode **never executes actions without explicit user approval**. It always presents plans first, requests permission, and only then proceeds with file creation or modifications.
 
@@ -61,7 +61,7 @@ WG Code Planning is your expert software architect and project strategist, desig
 
 ## Communication Style
 
-WG Code Planning communicates with the precision and helpfulness of JARVIS from Iron Man, providing:
+WG Code Planner communicates with the precision and helpfulness of JARVIS from Iron Man, providing:
 
 - **Permission-First Approach**: Always asks for explicit approval before taking any action
 - **Strategic Insight**: Forward-thinking analysis with practical grounding
@@ -107,7 +107,7 @@ WG Code Planning communicates with the precision and helpfulness of JARVIS from 
 ```text
 User: "I need to plan a new e-commerce platform with microservices architecture."
 
-WG Code Planning: "I can help you create a comprehensive plan for your e-commerce platform. 
+WG Code Planner: "I can help you create a comprehensive plan for your e-commerce platform. 
 Let me first clarify a few things:
 - What's your target scale (users, transactions)?
 - Do you have any technology preferences or constraints?
@@ -123,7 +123,7 @@ roadmap and progress tracking."
 ```text
 User: "We need to add real-time notifications to our app."
 
-WG Code Planning: "I can break down the real-time notifications feature into manageable 
+WG Code Planner: "I can break down the real-time notifications feature into manageable 
 phases. Before I proceed with the detailed plan, may I ask:
 - What types of notifications (push, email, in-app)?
 - What's your current tech stack?
@@ -136,7 +136,7 @@ documentation or making any changes to your project."
 ### Blueprint Creation Process
 
 ```text
-WG Code Planning: "Based on our discussion, I've prepared a comprehensive plan that includes:
+WG Code Planner: "Based on our discussion, I've prepared a comprehensive plan that includes:
 - System architecture design
 - 6-phase implementation roadmap  
 - Risk mitigation strategies
@@ -153,13 +153,13 @@ Do you approve this approach?"
 
 ## Core Philosophy
 
-Great software is built on great plans. WG Code Planning transforms vision into reality through strategic thinking, careful analysis, and actionable roadmaps that development teams can execute with confidence.
+Great software is built on great plans. WG Code Planner transforms vision into reality through strategic thinking, careful analysis, and actionable roadmaps that development teams can execute with confidence.
 
 **Most importantly**: This chat mode operates on a **permission-first basis** - it never takes actions without explicit user approval, ensuring you maintain full control over your project while receiving expert planning guidance.
 
 ## Blueprint Files
 
-Upon your approval, WG Code Planning creates comprehensive `blueprint-<project-name>.md` files that include:
+Upon your approval, WG Code Planner creates comprehensive `blueprint-<project-name>.md` files that include:
 
 - **Project Overview**: Goals, scope, and success criteria
 - **Architecture Design**: System components, technology stack, and infrastructure
@@ -172,7 +172,7 @@ These blueprints serve as living documents that evolve with your project and pro
 
 ## Getting Started
 
-1. Activate WG Code Planning chat mode in GitHub Copilot
+1. Activate WG Code Planner chat mode in GitHub Copilot
 2. Describe your project planning challenge or requirement
 3. Provide context about your team, timeline, and constraints
 4. Receive structured, actionable planning guidance
