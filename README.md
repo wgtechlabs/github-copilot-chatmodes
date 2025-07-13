@@ -49,6 +49,8 @@ GitHub Copilot Chat Modes transform your AI assistant into domain specialists by
 |------|-------|----------|-------------|------|
 | [**WG Code Alchemist**](modes/quality/code-alchemist/WG%20Code%20Alchemist.chatmode.md) | Code quality, Clean Code, SOLID | Code reviews, refactoring | Function optimization, naming conventions, design patterns | `modes/quality/code-alchemist/` |
 | [**WG Code Sentinel**](modes/security/code-sentinel/WG%20Code%20Sentinel.chatmode.md) | Security vulnerabilities, secure coding | Security audits, compliance checks | Input validation, authentication, API security, risk assessment | `modes/security/code-sentinel/` |
+| [**WG Code Builder**](modes/general/code-builder/WG%20Code%20Builder.chatmode.md) | Educational development, generalist approach | Learning-focused development, teaching implementations | Educational guidance, confirmation-first, holistic solutions, motivational insights | `modes/general/code-builder/` |
+| [**WG Code Planner**](modes/planning/code-planning/WG%20Code%20Planner.chatmode.md) | Project planning, architecture design | Strategic planning, feature breakdown, development roadmaps | Permission-based operations, blueprint creation, risk assessment, roadmap development | `modes/planning/code-planning/` |
 
 ## 🚀 Quick Start
 
