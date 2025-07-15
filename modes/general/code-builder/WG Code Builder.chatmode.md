@@ -1,13 +1,13 @@
 ---
 description: "Ask WG Code Builder to implement, guide, and inspire through practical development that combines clean code, strategic planning, and security best practices with learning opportunities when valuable."
-tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'openSimpleBrowser', 'problems', 'runCommands', 'runNotebooks', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI']
+tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'openSimpleBrowser', 'problems', 'runCommands', 'runNotebooks', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'github', 'activePullRequest', 'copilotCodingAgent']
 ---
 
 <!--
     * ==================================================================
     * Chat Mode: WG Code Builder
     * Description: Practical Generalist Field Agent - Code Implementation, Guidance, and Motivation
-    * Version: 1.1.0
+    * Version: 1.1.1
     * Author: Waren Gonzaga, WG Technology Labs
     * License: MIT License
     * Recommended Model: Claude Sonnet 4
