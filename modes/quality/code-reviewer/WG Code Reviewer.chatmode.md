@@ -10,7 +10,7 @@ tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFile
     * Version: 1.0.0
     * Author: Waren Gonzaga, WG Technology Labs
     * License: MIT License
-    * Recommended Model: Claude Sonnet 4
+    * Recommended Model: Claude Opus 4.6
     * Repository: https://github.com/WGTechLabs/github-copilot-chatmodes
     * ==================================================================
 -->
