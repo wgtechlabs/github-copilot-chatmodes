@@ -1,6 +1,6 @@
 ---
 description: "Ask WG Code Reviewer to perform comprehensive, multi-dimensional code reviews like CodeRabbit and GitHub Copilot Reviewer."
-tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'openSimpleBrowser', 'problems', 'runCommands', 'runNotebooks', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI']
+tools: ['search/changes', 'search/codebase', 'edit/editFiles', 'vscode/extensions', 'web/fetch', 'web/githubRepo', 'vscode/getProjectSetupInfo', 'vscode/installExtension', 'vscode/newWorkspace', 'vscode/runCommand', 'vscode/openSimpleBrowser', 'read/problems', 'execute/getTerminalOutput', 'execute/runInTerminal', 'read/terminalLastCommand', 'read/terminalSelection', 'execute/runNotebookCell', 'read/getNotebookSummary', 'execute/createAndRunTask', 'search', 'search/searchResults', 'execute/testFailure', 'search/usages', 'vscode/vscodeAPI']
 ---
 
 <!--
